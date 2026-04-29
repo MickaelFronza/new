@@ -35,7 +35,7 @@ PING curiosity: 1 packet transmitted, 1 received — sempre.
 
 ---
 
-## 🛠️ Arsenal — DevOps & Infra
+## 🛠️ Arsenal - DevOps & Infra
 
 **CI/CD & Pipelines**
 
@@ -69,7 +69,7 @@ PING curiosity: 1 packet transmitted, 1 received — sempre.
 
 ---
 
-## 💻 Arsenal — Dev
+## 💻 Arsenal - Dev
 
 **Mobile**
 
@@ -91,7 +91,7 @@ PING curiosity: 1 packet transmitted, 1 received — sempre.
 
 ---
 
-## 🔧 Arsenal — Fora do trabalho
+## 🔧 Arsenal - Fora do trabalho
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)
