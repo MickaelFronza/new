@@ -14,7 +14,8 @@ uid=0(root) gid=0(root) groups=0(root)
 
 ┌──(fronza㉿kali)-[~]
 └─$ cat /etc/profile.d/off.sh
-> manter sistemas vivos. entender como morrem.
+> Dev de sistemas, apps e aplicações que não caem.
+> Android · PHP · Python · seguras por design.
 
 ┌──(fronza㉿kali)-[~]
 └─$ ls /tools
@@ -34,7 +35,7 @@ PING curiosity: 1 packet transmitted, 1 received — sempre.
 
 ---
 
-## 🛠️ Arsenal — Profissional
+## 🛠️ Arsenal — DevOps & Infra
 
 **CI/CD & Pipelines**
 
@@ -61,10 +62,32 @@ PING curiosity: 1 packet transmitted, 1 received — sempre.
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white)
 
-**Linguagens & Scripts**
+**Scripts & Automação**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+---
+
+## 💻 Arsenal — Dev
+
+**Mobile**
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Backend & Web**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+**Banco de Dados**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
@@ -88,7 +111,9 @@ PING curiosity: 1 packet transmitted, 1 received — sempre.
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Avançado-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-Avançado-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-Intermediário-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-Intermediário-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Intermediário-3776AB?style=flat-square&logo=python&logoColor=white)
+![Android](https://img.shields.io/badge/Android-Intermediário-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-Avançado-004170?style=flat-square&logo=nmap&logoColor=white)
 
 ---
@@ -102,12 +127,6 @@ PING curiosity: 1 packet transmitted, 1 received — sempre.
 <a href="https://github.com/Fronza">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Fronza&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=ff3a3a&currStreakLabel=00ff41"/>
 </a>
-
----
-
-## 😺
-
-![hacker cat](https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif)
 
 ---
 
